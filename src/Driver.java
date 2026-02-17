@@ -6,6 +6,8 @@ public class Driver {
 		Glad.glad();
 		Hungry.hungry();
 		Sad.sad();
+		
+		Glad.glad2();
 	}
 
 }
